@@ -1,0 +1,12 @@
+{
+  "name": "astar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@manaflair/emmagic": "https://github.com/manaflair/emmagic.git",
+    "@sbj42/maze-generator": "^2.0.6",
+    "@sbj42/maze-generator-backtrack": "^0.1.5",
+    "seedrandom": "^3.0.5"
+  }
+}
